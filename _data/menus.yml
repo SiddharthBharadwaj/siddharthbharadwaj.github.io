@@ -1,14 +1,10 @@
-- title: home
+- title: Home
   url: /
   external: false
 
-- title: about
-  url: /about/
-  external: false
-
-- title: notes
-  url: /notes/
-  external: false # set true if you using external link, see bellow
+- title: Twitter
+  url: https://twitter.com/____Siddharth__
+  external: true
 
 # Example:
 # - title: github
