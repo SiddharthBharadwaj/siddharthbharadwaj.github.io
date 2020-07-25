@@ -4,15 +4,14 @@ description: >-
 lang: en-US # default lang
 timezone: Asia/kolkata
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo:  # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Siddharth Bharadwaj # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    I am Siddharth Bharadwaj from India. I am a learner and made this blog to share my knowledge althoug it's not much. I hope you'll learn something from my posts and i'll really appreciate if you can teach me something too.
   username: SiddharthBharadwaj # author username
   github: SiddharthBharadwaj
   twitter: ____Siddharth__
