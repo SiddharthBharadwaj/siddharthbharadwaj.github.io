@@ -14,7 +14,7 @@ I was just googling around for a new target and after some time i found a websit
 I was going through the website and found that there was a dedicated page for their social media accounts (redacted.com/community). Now you may ask why to care about it ? You'll find out soon.
 
 So, after i saw the page i just got only one feeling. What was that ? 
-I just started to opening every profile url. After 3 or 4 clicks i saw an error. It was:
+I just started to open every profile url. After 3 or 4 clicks i saw an error. It was:
 
 <img src="https://raw.githubusercontent.com/SiddharthBharadwaj/siddharthbharadwaj.github.io/master/_posts/How-I-got-100%24-bounty-for-creating-a-Twitter-account/error.jpg"> 
 
@@ -22,7 +22,7 @@ Then i was like:
 
 <div class="tenor-gif-embed" data-postid="7890844" data-share-method="host" data-width="100%" data-aspect-ratio="1.3333333333333333"><a href="https://tenor.com/view/he-hehe-boy-boi-boyi-gif-7890844">He Hehe GIF</a> from <a href="https://tenor.com/search/he-gifs">He GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-I rushed to my twitter account settings and clicked on change username. And tried registering the username from "redacted.com" which wasn't opening and __BOOM__ username changed successfully.
+I rushed to my twitter account settings and clicked on change username. And tried registering the username from "redacted.com" which wasn't opening and "__BOOM__" username changed successfully.
 
 <div class="tenor-gif-embed" data-postid="8478631" data-share-method="host" data-width="100%" data-aspect-ratio="1.3707865168539326"><a href="https://tenor.com/view/boom-gif-8478631">Boom Late Night Show GIF</a> from <a href="https://tenor.com/search/boom-gifs">Boom GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
