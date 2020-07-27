@@ -1,5 +1,5 @@
 ---
-title: How I got 100$ bounty for creating a Twitter-account
+title: How I got 100$ bounty for creating a Twitter account
 date: 2020-07-27 16:00:00 +07:00
 modified: 2020-07-27 16:00:00 +07:00
 tags: 
@@ -28,7 +28,7 @@ I rushed to my twitter account settings and clicked on change username. And trie
 
 There were still so many profiles remaining on the website. So i tried opening all of them and at the end i was sitting with 3 new twitter accounts & 1 instagram account. 
 
-I Reported the the issue to redacted.com and it got triaged and resolved next day. And i got the bounty that same day.
+I Reported the issue to redacted.com and it got triaged and resolved next day. And i got the bounty that same day.
 
 **Timeline:**
 
