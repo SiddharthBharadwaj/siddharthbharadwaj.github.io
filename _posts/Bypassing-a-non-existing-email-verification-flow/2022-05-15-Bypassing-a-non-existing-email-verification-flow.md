@@ -2,7 +2,8 @@
 title: Bypassing a non existing email verification flow
 date: 2022-05-15 16:00:00 +05:30
 modified: 2022-05-15 16:00:00 +05:30
-tags: 
+tags:
+image: /carbon.png 
 description: A blog post about how I bypassed a non existing email verification flow in a website.
 ---
 
