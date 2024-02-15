@@ -17,7 +17,7 @@ USE CHROME FOR BEST EXPERIENCE AS THIS PAGE USES LINKS TO HIGHLIGHTS
 - [EUR](https://www.eur.nl/en/campus/locations/campus-woudestein/security-safety/information-security/hall-fame#:~:text=Opens%20external-,Siddharth%20Bharadwaj,-%2C%20Twitter)
 - [Waitwhile](https://waitwhile.com/)
 - Govt. Of India - Accepted a critical PII leakage issue. Will update links soon.
-- Any many more... Will be updating with some time.
+- And many more... Will be updating with some time.
 
 BugBounty Profiles:
 - [Intigriti](https://app.intigriti.com/profile/siddharthbharadwaj)
